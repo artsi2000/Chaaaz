@@ -17,7 +17,7 @@ local old; old = hookmetamethod(game, "__namecall", function(self, ...)
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 
-local Window = Library.CreateLib("Chaz v0.3","RJTheme5")
+local Window = Library.CreateLib("Chaz v0.3(никита купи мунсекс в3)","RJTheme5")
 
 local Tab = Window:NewTab("Main")
 
@@ -284,9 +284,8 @@ end
  wait(0.1)
     end
     while a == false do
-        
-        print ""
-        wait(1)
+        print(AXAXAXA)
+        wait(100)
     end
 
 end)
@@ -334,8 +333,8 @@ Section:NewToggle("Anti ts", "anti ts omg what?", function(state)
  wait(0.1)
     end
     while a == false do
-        
-        wait(1)
+        print(NOOB)
+        wait(100)
     end
 
 end)
@@ -369,6 +368,7 @@ Section:NewToggle("Anti Blind", "чаз радуется", function(state)
  wait()
     end
     while a == false do
-        wait(1)
+        print(AXAXAXA)
+        wait(100)
     end
 end)

@@ -1,3 +1,4 @@
+--НУ НИКИТА КУПИ MOONSEC V3
 old = hookmetamethod(game,"__namecall", function(self,...)
     local args = {...}
     local method = getnamecallmethod()
